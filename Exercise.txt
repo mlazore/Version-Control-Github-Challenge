@@ -1,0 +1,5 @@
+1.) Terminal is a program that comes installed in all macs that basically allow for you to perform tasks and functions using simple text and word based commands.
+
+2.) Git is the repository itself meaning it saves all the changes done to a project as "repositories" while github is a open sourced platform that allows you to manage projects and collaborate on work. 
+
+3.) We use Github due to it being free and an open sourced platform that allows free range and access to other peoples work. 
